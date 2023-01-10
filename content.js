@@ -18,11 +18,6 @@ document.addEventListener('copy', (event) => {
     event.preventDefault();
     // whatever i highlight it's automatically copied
     // to clipboard and i can paste it anywhere
-
-
-
-
-
   }
 });
 
